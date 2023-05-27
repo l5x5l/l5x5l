@@ -1,6 +1,6 @@
 ### 안녕하세요! 안드로이드 개발자 윤세환입니다!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l5x5l)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l5x5l)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ⚡ 현재 사용하고 있는 기술들입니다.
 <p>
