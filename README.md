@@ -1,4 +1,4 @@
-### 안녕하세요! 안드로이드 개발자 윤세환입니다!
+# Welcome to My Github!
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l5x5l)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -6,6 +6,8 @@
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
 
 🔭 개발 경험이 있는 기술들입니다.
@@ -16,12 +18,22 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
 </p>
 
-
+<!--
 🌱 현제 공부하고 있는 기술입니다.
 <p>
 <img src="https://img.shields.io/badge/Android Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
+-->
+## Open Projects
+| 프로젝트 명          | 프로젝트 github 주소            | 개발기간 | 플랫폼 |
+|---------------|-----------------------------------------------------|------------------|------------------|
+| Review The Review  | https://github.com/Dev-hoT6/Android | 2024.01 ~ 2024.01 | Android |
+| Traily | https://github.com/l5x5l/travel_diary | 2023.03 ~ 2023.10 | Android |
+| Bookmark-oneday | https://github.com/Bookmark-Oneday/Bookmark-Android | 2023.03 ~ 2023.08 | Android |
+| Plaiul | https://github.com/l5x5l/plaiul | 2022.07 ~ 2022.09 | ReactNative |
+| Canvas Clock | https://github.com/l5x5l/Canvas-Clock | 2022.04 ~ 2022.10 | Android |
+| Diet-Memory | https://github.com/l5x5l/diet_memory | 2021.09 ~ 2021.12 | Android |
 
 
 <!--
