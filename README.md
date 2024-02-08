@@ -31,9 +31,7 @@
 | Review The Review  | https://github.com/Dev-hoT6/Android | 2024.01 ~ 2024.01 | Android |
 | Traily | https://github.com/l5x5l/travel_diary | 2023.03 ~ 2023.10 | Android |
 | Bookmark-oneday | https://github.com/Bookmark-Oneday/Bookmark-Android | 2023.03 ~ 2023.08 | Android |
-| Plaiul | https://github.com/l5x5l/plaiul | 2022.07 ~ 2022.09 | ReactNative |
 | Canvas Clock | https://github.com/l5x5l/Canvas-Clock | 2022.04 ~ 2022.10 | Android |
-| Diet-Memory | https://github.com/l5x5l/diet_memory | 2021.09 ~ 2021.12 | Android |
 
 
 <!--
