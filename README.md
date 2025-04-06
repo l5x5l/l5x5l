@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
 🔭 개발 경험이 있는 기술들입니다.
@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
 
 <!--
@@ -28,6 +29,7 @@
 ## Open Projects
 | 프로젝트 명          | 프로젝트 github 주소            | 개발기간 | 플랫폼 |
 |---------------|-----------------------------------------------------|------------------|------------------|
+| Pokit  | https://github.com/YAPP-Github/pokit-android | 2024.05 ~ 2024.12 | Android |
 | Review The Review  | https://github.com/Dev-hoT6/Android | 2024.01 ~ 2024.01 | Android |
 | Traily | https://github.com/l5x5l/travel_diary | 2023.03 ~ 2023.10 | Android |
 | Bookmark-oneday | https://github.com/Bookmark-Oneday/Bookmark-Android | 2023.03 ~ 2023.08 | Android |
